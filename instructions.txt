@@ -3,7 +3,7 @@ Straightforward Training™
 How to Publish in Github (no branches/single user)
 Author: Saulo S. Ortiz
 Date: 20180604
-Update: 20180713
+Update: 20190221
 ********************************************************
 
 DISCLAIMER:
@@ -81,6 +81,9 @@ Additional Notes:
   •	git add .
   •	git commit -m ‘your_comment’
   •	git push
+
+  Note: if you need to overwrite then use force update:
+  •	git push -f
 
 6. If you have any errors or issues shut both programs off then restart them...if that doesn't work then reboot.
 
