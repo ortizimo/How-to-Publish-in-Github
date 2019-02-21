@@ -94,3 +94,4 @@ only uses the last commands in step #1 of the Additional Notes
 
 5. If you have any errors or issues shut both programs off then restart them...if
 that doesn't work then reboot.
+then reboot.
