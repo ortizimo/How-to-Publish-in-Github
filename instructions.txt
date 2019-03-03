@@ -70,7 +70,7 @@ commands do all your work:
   •	git add .
   •	git commit -m ‘your_comment’
   •	git push <URL_to_Repository>
-  or •	git push -f <URL_to_Repository>
+  or git push -f <URL_to_Repository>
 
 
 Additional Notes:
