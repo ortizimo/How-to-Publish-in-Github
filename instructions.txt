@@ -94,8 +94,10 @@ commands below unless you create a new one...then you have to do all starting at
   •	git commit -m ‘your_comment’
   •	git push <URL_to_Repository>
 
-  Note: if you need to overwrite then use force update:
+****************************************************************************************
+NOTE: if you need to overwrite then use force update:
   •	git push -f <URL_to_Repository>
+****************************************************************************************
 
 6. If you have any errors or issues shut both programs off then restart them...if that doesn't work
 then reboot.
@@ -105,8 +107,3 @@ then reboot.
 8. Any errors...shut everything off then redo.
 
 9. You need to do these steps for each new repository...updating only uses the last commands above.
-ory...updating only uses the last commands above.
-only uses the last commands above.
-for each new repository...updating only uses the last commands above.
-ly uses the last commands above.
-e.
