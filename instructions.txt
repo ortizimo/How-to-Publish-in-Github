@@ -1,9 +1,9 @@
 ********************************************************
-Straightforward Training™
+Straightforward Training(TM)
 How to Publish in Github (no branches/single user)
 Author: Saulo S. Ortiz
 Date: 20180604
-Update: 20190301
+Update: 20191118
 ********************************************************
 
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
@@ -53,7 +53,7 @@ case mine reads instructions.txt
 15. Using ATOM edit your file with the data you want in it...instructions, commands, etc
 
 16. When you’re ready to push (upload) type git add .
-  •	This adds all the files in that subfolder to the queue
+  •	This adds all the files in git that subfolder to the queue
   •	You can also add single files using their format like .html or .txt, etc
 
 17. Looking at the initial page in your github account copy and paste into gitbash the command:
@@ -72,6 +72,9 @@ commands do all your work:
   •	git push <URL_to_Repository>
   or git push -f <URL_to_Repository>
 
+****************************************************************************************
+NOTE: Make sure you copy/paste the URL to the repository from your browser into Git Bash
+****************************************************************************************
 
 Additional Notes:
 1. Refresh your repository and do any changes if the format looks off. Also, if you want to add a README
@@ -100,3 +103,10 @@ then reboot.
 7. You'll need to do these steps for EACH repository.
 
 8. Any errors...shut everything off then redo.
+
+9. You need to do these steps for each new repository...updating only uses the last commands above.
+ory...updating only uses the last commands above.
+only uses the last commands above.
+for each new repository...updating only uses the last commands above.
+ly uses the last commands above.
+e.
