@@ -3,7 +3,7 @@ Straightforward Training(TM)
 How to Publish in Github (no branches/single user)
 Author: Saulo S. Ortiz
 Date: 20180604
-Update: 20191118
+Update: 20200802
 ********************************************************
 
 ≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡≡
@@ -24,7 +24,7 @@ Not responsible for corrupt or loss of data. Steps have been verified multiple t
 5. In your computer create a Github folder to work from
   • create a subfolder for each subject you want
 
-6. login to github and create a new repository for the subject you want to push (upload)
+6. Login to github and create a new repository for the subject you want to push (upload)
   • an initial instructions page will show up
 
 7. Go to the github folder in your computer and right click on it...select Git Bash here
@@ -82,14 +82,14 @@ Additional Notes:
  want to say.
 
 2. You need to do these steps for each new repository...updating any old repositories only uses the last
-commands in step #20.
+commands in step #19.
 
 3. After login in you do not need to do it anymore unless you disconnect.
 
 4. If you have any errors shut down both programs then restart them.
 
 5. Once you log into your account through Git Bash all you have to do to update old repositories are the
-commands below unless you create a new one...then you have to do all starting at step 11 above.
+commands below unless you create a new one...then you have to do all starting at step #10 above.
   • git add .
   • git commit -m ‘your_comment’
   • git push <URL_to_Repository>
@@ -107,3 +107,4 @@ then reboot.
 8. Any errors...shut everything off then redo.
 
 9. You need to do these steps for each new repository...updating only uses the last commands above.
+ands above.
